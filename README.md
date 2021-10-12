@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tckiprotich
 - 👀 I’m interested in machine learning and web develepment
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects oj javascript and python
+- 💞️ I’m looking to collaborate on projects on javascript and python
 - 📫 How to reach me on instagram @tckiprotich1
 
 <!---
